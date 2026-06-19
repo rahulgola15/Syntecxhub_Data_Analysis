@@ -6,7 +6,7 @@ This repository contains all the projects completed during my Data Analytics int
 
 # 👨‍💼 Intern
 
-Rahul Gola | B.Tech CSE (2023-2027) | AKTU
+Gola Rahul lalaram | B.Tech CSE (2023-2027) | AKTU
 
 ---
 
