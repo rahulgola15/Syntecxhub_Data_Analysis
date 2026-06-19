@@ -1,18 +1,18 @@
-Syntecxhub Data Analysis Internship 📊
+# Syntecxhub Data Analysis Internship 📊
 
 This repository contains all the projects completed during my Data Analytics internship at Syntecxhub.
 
 ---
 
-👨‍💼 Intern
+# 👨‍💼 Intern
 
-**Rahul Gola** | B.Tech CSE (2023-2027) | AKTU
+Rahul Gola | B.Tech CSE (2023-2027) | AKTU
 
 ---
 
-📁 Projects
+# 📁 Projects
 
- 01 - Student Performance Analysis 📈
+#  01 - Student Performance Analysis 📈
 
 * Tools Used: Microsoft Excel, Pivot Tables
 * Description: Comprehensive analysis of student performance data using advanced Excel features including data filtering, pivot tables, and visualization. This project demonstrates skills in data aggregation, trend analysis, and creating meaningful insights from raw data.
@@ -24,7 +24,7 @@ This repository contains all the projects completed during my Data Analytics int
 
 ---
 
- 02 - Website Traffic Analysis Dashboard 🌐
+#  02 - Website Traffic Analysis Dashboard 🌐
 
 * Tools Used: Power BI, Excel
 *Description: Interactive Power BI dashboard for analyzing website traffic patterns. This project showcases the ability to create professional, interactive dashboards that provide real-time insights into user behavior, traffic sources, and engagement metrics.
@@ -38,7 +38,7 @@ This repository contains all the projects completed during my Data Analytics int
 
 ---
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * Data Analysis: Excel, Power BI
 * Data Manipulation: Pivot Tables, Data Filters
@@ -48,7 +48,7 @@ This repository contains all the projects completed during my Data Analytics int
 
 ---
 
-📊 Key Skills Demonstrated
+# 📊 Key Skills Demonstrated
 
 ✓ Data Analysis & Interpretation  
 ✓ Excel Advanced Features (Pivot Tables, VLOOKUP, etc.)  
@@ -63,7 +63,7 @@ This repository contains all the projects completed during my Data Analytics int
 
 * Email: rahulgola15@gmail.com  
 * GitHub: [@rahulgola15](https://github.com/rahulgola15)  
-* Company: Syntecxhub
+* Company: @syntecxhub
 
 ---
 
