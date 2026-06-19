@@ -1,30 +1,71 @@
-# Syntecxhub_Data_Analysis
-Student performance Analysis using Microsoft Excel, pivot Table, and Data visualization
-# Student Performance Analysis
+Syntecxhub Data Analysis Internship 📊
 
-## Project Overview
-This project analyzes student performance using Microsoft Excel.
+This repository contains all the projects completed during my Data Analytics internship at Syntecxhub.
 
-## Objectives
-- Load and preprocess student dataset
-- Analyze subject-wise performance
-- Compare class-wise performance
-- Compare gender-wise performance
-- Analyze attendance and study hours impact
-- Generate insights for academic improvement
+---
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts and Graphs
+👨‍💼 Intern
 
-## Analysis Performed
-1. Subject-wise Performance Analysis
-2. Class-wise Performance Analysis
-3. Gender-wise Performance Analysis
-4. Attendance vs Average Marks
-5. Study Hours vs Average Marks
+**Rahul Gola** | B.Tech CSE (2023-2027) | AKTU
 
-## Conclusion
-Students with higher attendance and study hours generally achieved better academic performance.
+---
 
+📁 Projects
+
+ 01 - Student Performance Analysis 📈
+
+* Tools Used: Microsoft Excel, Pivot Tables
+* Description: Comprehensive analysis of student performance data using advanced Excel features including data filtering, pivot tables, and visualization. This project demonstrates skills in data aggregation, trend analysis, and creating meaningful insights from raw data.
+* Key Features:
+  - Data cleaning and validation
+  - Pivot table creation for multi-dimensional analysis
+  - Performance trend visualization
+  - Statistical analysis and insights generation
+
+---
+
+ 02 - Website Traffic Analysis Dashboard 🌐
+
+* Tools Used: Power BI, Excel
+*Description: Interactive Power BI dashboard for analyzing website traffic patterns. This project showcases the ability to create professional, interactive dashboards that provide real-time insights into user behavior, traffic sources, and engagement metrics.
+* Key Features:
+  - Real-time traffic monitoring
+  - Multi-page dashboard with detailed metrics
+  - Interactive filters and slicers
+  - Traffic source analysis
+  - User engagement tracking
+  - Performance benchmarking
+
+---
+
+🛠️ Tools & Technologies
+
+* Data Analysis: Excel, Power BI
+* Data Manipulation: Pivot Tables, Data Filters
+* Visualization: Power BI, Chart Creation
+* Database Tools: Excel Data Models
+* Programming Concepts: Data aggregation, Analysis, Reporting
+
+---
+
+📊 Key Skills Demonstrated
+
+✓ Data Analysis & Interpretation  
+✓ Excel Advanced Features (Pivot Tables, VLOOKUP, etc.)  
+✓ Power BI Dashboard Development  
+✓ Data Visualization & Storytelling  
+✓ Statistical Analysis  
+✓ Business Insight Generation  
+
+---
+
+ 📧 Contact
+
+* Email: rahulgola15@gmail.com  
+* GitHub: [@rahulgola15](https://github.com/rahulgola15)  
+* Company: Syntecxhub
+
+---
+
+**Last Updated:** June 2026  
+**Status:** Internship in Progress
