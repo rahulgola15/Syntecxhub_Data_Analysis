@@ -61,7 +61,7 @@ Gola Rahul lalaram | B.Tech CSE (2023-2027) | AKTU
 
  📧 Contact
 
-* Email: rahulgola15@gmail.com  
+* Email: rahulgola1509@gmail.com  
 * GitHub: [@rahulgola15](https://github.com/rahulgola15)  
 * Company: @syntecxhub
 
